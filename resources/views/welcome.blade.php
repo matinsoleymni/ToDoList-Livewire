@@ -6,6 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>ToDo App</title>
     @vite("./resources/css/app.css")
+    <script src="https://unpkg.com/alpinejs" defer></script>
 </head>
 <body>
     <div class="container mx-auto">

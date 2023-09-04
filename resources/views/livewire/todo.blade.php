@@ -1,4 +1,4 @@
-<div class="w-1/2 mx-auto mt-10 bg-purple-100 rounded-lg">
+<div class="w-1/2 mx-auto mt-16 bg-purple-100 rounded-lg">
     <div class="">
         <div class="py-4">
             <h1 class="text-3xl font-medium text-center ">ToDo App - Tall Stack</h1>
